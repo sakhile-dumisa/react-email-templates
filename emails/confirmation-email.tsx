@@ -48,7 +48,7 @@ export const ConfirmationEmail = ({ userName = "there", sentMessage }: Props) =>
       >
         <Body className="bg-white my-auto mx-auto font-sans">
           <Container className="max-w-[600px] mx-auto p-[40px_20px]">
-            <Section className="mb-[32px] text-center">
+            <Section className="mb-[32px] text-left">
               <Link href="https://sakhiledumisa.com">
                 <Img
                   src="https://mail.sakhiledumisa.com/logo.png"
