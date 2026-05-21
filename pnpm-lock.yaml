@@ -22,8 +22,8 @@ importers:
         version: 'link:'
     devDependencies:
       '@react-email/ui':
-        specifier: 6.1.4
-        version: 6.1.4(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
+        specifier: 6.1.5
+        version: 6.1.5(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
       '@types/react':
         specifier: 19.2.14
         version: 19.2.14
@@ -438,8 +438,8 @@ packages:
       react: ^18.0 || ^19.0 || ^19.0.0-rc
       react-dom: ^18.0 || ^19.0 || ^19.0.0-rc
 
-  '@react-email/ui@6.1.4':
-    resolution: {integrity: sha512-FyMCx7uNV0ugZY9ZWNAnWFTrXnYOhRQm97ybbZapJCQLu6uhZHmluXv2HcsSZ0RaMAzuLJgw0ziLQjq4uYEiNg==}
+  '@react-email/ui@6.1.5':
+    resolution: {integrity: sha512-IJYZFEk3+VjM0hoPXXIiarps1MNOopQgycKMYzhG1iRHut32JKFMt9J0KFu7qmif5wpbGGxv6MhurdW3MG0WEA==}
 
   '@selderee/plugin-htmlparser2@0.11.0':
     resolution: {integrity: sha512-P33hHGdldxGabLFjPPpaTxVolMrzrcegejx+0GxjrIb9Zv48D8yAIA/QTDR2dFl7Uz7urX8aX6+5bCZslr+gWQ==}
@@ -493,8 +493,8 @@ packages:
     resolution: {integrity: sha512-lGe34o6EHj9y3Kts9R4ZYs/Gr+6N7MCaMlIFA3F1R2O5/m7K06AxfSeO5530PEERE6/WyEg3lsuyw4GHlPZHog==}
     engines: {node: ^4.5.0 || >= 5.9}
 
-  baseline-browser-mapping@2.10.29:
-    resolution: {integrity: sha512-Asa2krT+XTPZINCS+2QcyS8WTkObE77RwkydwF7h6DmnKqbvlalz93m/dnphUyCa6SWSP51VgtEUf2FN+gelFQ==}
+  baseline-browser-mapping@2.10.31:
+    resolution: {integrity: sha512-MujYO3eP72uvmSE0i4wltsodRfIpZATP3jvzRNRGGxgzId7aVocVJJV3nf01qnzzKFGxQVC9bpWxl5cjxTr/7Q==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -502,8 +502,8 @@ packages:
     resolution: {integrity: sha512-kLpxurY4Z4r9sgMsyG0Z9uzsBlgiU/EFKhj/h91/8yHu0edo7XuixOIH3VcJ8kkxs6/jPzoI6U9Vj3WqbMQ94g==}
     engines: {node: 18 || 20 || >=22}
 
-  caniuse-lite@1.0.30001792:
-    resolution: {integrity: sha512-hVLMUZFgR4JJ6ACt1uEESvQN1/dBVqPAKY0hgrV70eN3391K6juAfTjKZLKvOMsx8PxA7gsY1/tLMMTcfFLLpw==}
+  caniuse-lite@1.0.30001793:
+    resolution: {integrity: sha512-iwSsYWaCOoh26cV8NwNRViHlrfUvYsHDfRVcbtmw0Kg6PJIZZXwMkj1442FYLBGkeUf1juAsU3DTfxW579mrPA==}
 
   chokidar@4.0.3:
     resolution: {integrity: sha512-Qgzu8kfBvo+cA4962jnP1KkS6Dop5NS6g7R5LFYJr4b8Ub94PPQXUksCw9PvXoeXPRRddRNC5C1JQUR2SMGtnA==}
@@ -1197,7 +1197,7 @@ snapshots:
       react: 19.2.6
       react-dom: 19.2.6(react@19.2.6)
 
-  '@react-email/ui@6.1.4(react-dom@19.2.6(react@19.2.6))(react@19.2.6)':
+  '@react-email/ui@6.1.5(react-dom@19.2.6(react@19.2.6))(react@19.2.6)':
     dependencies:
       esbuild: 0.28.0
       next: 16.2.6(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
@@ -1267,13 +1267,13 @@ snapshots:
 
   base64id@2.0.0: {}
 
-  baseline-browser-mapping@2.10.29: {}
+  baseline-browser-mapping@2.10.31: {}
 
   brace-expansion@5.0.6:
     dependencies:
       balanced-match: 4.0.4
 
-  caniuse-lite@1.0.30001792: {}
+  caniuse-lite@1.0.30001793: {}
 
   chokidar@4.0.3:
     dependencies:
@@ -1488,8 +1488,8 @@ snapshots:
     dependencies:
       '@next/env': 16.2.6
       '@swc/helpers': 0.5.15
-      baseline-browser-mapping: 2.10.29
-      caniuse-lite: 1.0.30001792
+      baseline-browser-mapping: 2.10.31
+      caniuse-lite: 1.0.30001793
       postcss: 8.4.31
       react: 19.2.6
       react-dom: 19.2.6(react@19.2.6)
