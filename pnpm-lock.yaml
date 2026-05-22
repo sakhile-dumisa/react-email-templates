@@ -15,8 +15,8 @@ importers:
         specifier: 19.2.6
         version: 19.2.6(react@19.2.6)
       react-email:
-        specifier: 6.1.5
-        version: 6.1.5(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
+        specifier: 6.3.2
+        version: 6.3.2(react-dom@19.2.6(react@19.2.6))(react@19.2.6)
       react-email-templates:
         specifier: 'link:'
         version: 'link:'
@@ -453,8 +453,8 @@ packages:
   '@types/cors@2.8.19':
     resolution: {integrity: sha512-mFNylyeyqN93lfe/9CSxOGREz8cpzAhH+E93xJ4xWQf62V8sQ/24reV2nyzUWM6H6Xji+GGHpkbLe7pVoUEskg==}
 
-  '@types/node@25.9.0':
-    resolution: {integrity: sha512-AOQwYUNolgy3VosiRqXrACUXTN8nJUtPl7FJXMqZVyxiiCLhQuG3jXKvCS1ALr+Y2OmZhzzLVlYPEqJaiqkaJQ==}
+  '@types/node@25.9.1':
+    resolution: {integrity: sha512-xfrlY7UD5rMJk3ZVJP8BNzS28J36YJg+xp+LPXV1TdWxr8uMH5A860QNxYDGQe/ylDSgjxE52Q9VnO7p75tJxg==}
 
   '@types/react-dom@19.2.3':
     resolution: {integrity: sha512-jp2L/eY6fn+KgVVQAOqYItbF0VY/YApe5Mz2F0aykSO8gx31bYCZyvSeYxCHKvzHG5eZjc+zyaS5BrBWya2+kQ==}
@@ -584,8 +584,8 @@ packages:
     resolution: {integrity: sha512-HqD3yTBfnBxIrbnM1DoD6Pcq8NECnh8d4As1Qgh0z5Gg3jRRIqijury0CL3ghu/edArpUYiYqQiDUQBIs4np3Q==}
     engines: {node: '>=10.0.0'}
 
-  engine.io@6.6.7:
-    resolution: {integrity: sha512-DgOngfDKM2EviOH3Mr9m7ks1q8roetLy/IMmYthAYzbpInMbYc/GS+fWFA3rl1gvwKVsQrVV61fo5emD1y3OJQ==}
+  engine.io@6.6.8:
+    resolution: {integrity: sha512-2agL3ueZhqxoVrfmntO8yuVj+uNSlIOnhykYHk3Cq0ShYPdUjjUiSJrQvXjq01I9jAuI0Zl2YO8Evv5Mqytm5g==}
     engines: {node: '>=10.2.0'}
 
   entities@4.5.0:
@@ -660,8 +660,8 @@ packages:
     resolution: {integrity: sha512-ja1E3yCr9i/0hmBVaM0bfwDjnGy8I/s6PP4DFp+yP+a+mrHO4Rm7DtmnqROTUkHIkqffC84YY7AeqX6oFk0WFg==}
     engines: {node: '>=18'}
 
-  lru-cache@11.4.0:
-    resolution: {integrity: sha512-W+R+kFL4HgVxONq2bhXPi3bGpzGe/yEhVOp233qw9wCRtgncJ15P3bC+e4zZMu4Cq7d+WAJjXGW0uUkifhcatA==}
+  lru-cache@11.5.0:
+    resolution: {integrity: sha512-5YgH9UJd7wVb9hIouI2adWpgqrrICkt070Dnj8EUY1+B4B2P9eRLPAkAAo6NICA7CEhOIeBHl46u9zSNpNu7zA==}
     engines: {node: 20 || >=22}
 
   marked@15.0.12:
@@ -791,8 +791,8 @@ packages:
     peerDependencies:
       react: ^19.2.6
 
-  react-email@6.1.5:
-    resolution: {integrity: sha512-f4I7Y+9kEMjALvcL5dn1TAsDJG7VgksrcR4x9PMQiaCCud4iUefJMBQAcOhvoBpk1k75lGhR/p75d7WMF24PfA==}
+  react-email@6.3.2:
+    resolution: {integrity: sha512-ZzmrwM+QLzfs/EZBnFZRMZwT3Kfvp46zIMCLsGn/rtRBh9ocRJDKHcnV0JWJyc0AVJTdPDHeFNBWap6N/3Dnhg==}
     engines: {node: '>=20.0.0'}
     hasBin: true
     peerDependencies:
@@ -817,8 +817,8 @@ packages:
   selderee@0.11.0:
     resolution: {integrity: sha512-5TF+l7p4+OsnP8BCCvSyZiSPc4x4//p5uPwK8TCnVPJYRmU2aYKMpOXvw8zM5a5JvuuCGN1jmsMwuU2W02ukfA==}
 
-  semver@7.8.0:
-    resolution: {integrity: sha512-AcM7dV/5ul4EekoQ29Agm5vri8JNqRyj39o0qpX6vDF2GZrtutZl5RwgD1XnZjiTAfncsJhMI48QQH3sN87YNA==}
+  semver@7.8.1:
+    resolution: {integrity: sha512-rkVq3IXh+4FDGch+KwzX3aV9W3kO54GyEgpvBzSyctDA6Xtd7RJQV1xmXbeQp5v7+VzLOfVqiutSE6GICgPFvg==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -829,8 +829,8 @@ packages:
   sisteransi@1.0.5:
     resolution: {integrity: sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==}
 
-  socket.io-adapter@2.5.6:
-    resolution: {integrity: sha512-DkkO/dz7MGln0dHn5bmN3pPy+JmywNICWrJqVWiVOyvXjWQFIv9c2h24JrQLLFJ2aQVQf/Cvl1vblnd4r2apLQ==}
+  socket.io-adapter@2.5.7:
+    resolution: {integrity: sha512-e0LyK91f3cUxTmv95/KzoLg47+zF+s/sbxRGDNsyG4dmIP8ZSX8ax6byOxfJXeNNtS/8AZlfD+uP7gBeR7DLlg==}
 
   socket.io-parser@4.2.6:
     resolution: {integrity: sha512-asJqbVBDsBCJx0pTqw3WfesSY0iRX+2xzWEWzrpcH7L6fLzrhyF8WPI8UaeM4YCuDfpwA/cgsdugMsmtz8EJeg==}
@@ -903,8 +903,8 @@ packages:
   when-exit@2.1.5:
     resolution: {integrity: sha512-VGkKJ564kzt6Ms1dbgPP/yuIoQCrsFAnRbptpC5wOEsDaNsbCB2bnfnaA8i/vRs5tjUSEOtIuvl9/MyVsvQZCg==}
 
-  ws@8.18.3:
-    resolution: {integrity: sha512-PEIGCY5tSlUt50cqyMXfCzX+oOPqN0vuGqWzbcJ2xvnkzkq46oOpz7dQaTDBdfICb4N14+GARUDw2XV2N4tvzg==}
+  ws@8.20.1:
+    resolution: {integrity: sha512-It4dO0K5v//JtTXuPkfEOaI3uUN87iYPnqo/ZzqCoG3g8uhA66QUMs/SrM0YK7/NAu+r4LMh/9dq2A7k+rHs+w==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
@@ -1224,9 +1224,9 @@ snapshots:
 
   '@types/cors@2.8.19':
     dependencies:
-      '@types/node': 25.9.0
+      '@types/node': 25.9.1
 
-  '@types/node@25.9.0':
+  '@types/node@25.9.1':
     dependencies:
       undici-types: 7.24.6
 
@@ -1240,7 +1240,7 @@ snapshots:
 
   '@types/ws@8.18.1':
     dependencies:
-      '@types/node': 25.9.0
+      '@types/node': 25.9.1
 
   accepts@1.3.8:
     dependencies:
@@ -1294,7 +1294,7 @@ snapshots:
       dot-prop: 10.1.0
       env-paths: 3.0.0
       json-schema-typed: 8.0.2
-      semver: 7.8.0
+      semver: 7.8.1
       uint8array-extras: 1.5.0
 
   cookie@0.7.2: {}
@@ -1350,10 +1350,10 @@ snapshots:
 
   engine.io-parser@5.2.3: {}
 
-  engine.io@6.6.7:
+  engine.io@6.6.8:
     dependencies:
       '@types/cors': 2.8.19
-      '@types/node': 25.9.0
+      '@types/node': 25.9.1
       '@types/ws': 8.18.1
       accepts: 1.3.8
       base64id: 2.0.0
@@ -1361,7 +1361,7 @@ snapshots:
       cors: 2.8.6
       debug: 4.4.3
       engine.io-parser: 5.2.3
-      ws: 8.18.3
+      ws: 8.20.1
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -1450,7 +1450,7 @@ snapshots:
       is-unicode-supported: 2.1.0
       yoctocolors: 2.1.2
 
-  lru-cache@11.4.0: {}
+  lru-cache@11.5.0: {}
 
   marked@15.0.12: {}
 
@@ -1525,7 +1525,7 @@ snapshots:
 
   path-scurry@2.0.2:
     dependencies:
-      lru-cache: 11.4.0
+      lru-cache: 11.5.0
       minipass: 7.1.3
 
   pathe@2.0.3: {}
@@ -1556,7 +1556,7 @@ snapshots:
       react: 19.2.6
       scheduler: 0.27.0
 
-  react-email@6.1.5(react-dom@19.2.6(react@19.2.6))(react@19.2.6):
+  react-email@6.3.2(react-dom@19.2.6(react@19.2.6))(react@19.2.6):
     dependencies:
       '@babel/parser': 7.27.0
       '@babel/traverse': 7.27.0
@@ -1599,13 +1599,13 @@ snapshots:
     dependencies:
       parseley: 0.12.1
 
-  semver@7.8.0: {}
+  semver@7.8.1: {}
 
   sharp@0.34.5:
     dependencies:
       '@img/colour': 1.1.0
       detect-libc: 2.1.2
-      semver: 7.8.0
+      semver: 7.8.1
     optionalDependencies:
       '@img/sharp-darwin-arm64': 0.34.5
       '@img/sharp-darwin-x64': 0.34.5
@@ -1635,10 +1635,10 @@ snapshots:
 
   sisteransi@1.0.5: {}
 
-  socket.io-adapter@2.5.6:
+  socket.io-adapter@2.5.7:
     dependencies:
       debug: 4.4.3
-      ws: 8.18.3
+      ws: 8.20.1
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -1657,8 +1657,8 @@ snapshots:
       base64id: 2.0.0
       cors: 2.8.6
       debug: 4.4.3
-      engine.io: 6.6.7
-      socket.io-adapter: 2.5.6
+      engine.io: 6.6.8
+      socket.io-adapter: 2.5.7
       socket.io-parser: 4.2.6
     transitivePeerDependencies:
       - bufferutil
@@ -1706,6 +1706,6 @@ snapshots:
 
   when-exit@2.1.5: {}
 
-  ws@8.18.3: {}
+  ws@8.20.1: {}
 
   yoctocolors@2.1.2: {}
